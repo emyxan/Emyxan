@@ -52,8 +52,9 @@ emyxan@jarvis:~$ run objectives.sh
 
 <!-- REDES SOCIAIS E CONTATO -->
 <h3 align="center">Conectar ao Terminal</h3>
+
 <p align="center">
-  📧 <a href="mailto:emillyn105@://gmail.com!"><b>Gmail</b></a> &nbsp;|&nbsp;
+  📧 <a href="mailto:emillyn105@://gmail.com"><b>Enviar E-mail</b></a> &nbsp;|&nbsp;
   📸 <a href="https://instagram.com" target="_blank"><b>Instagram</b></a> &nbsp;|&nbsp;
   🌳 <a href="https://wiki.gg" target="_blank"><b>Perfil de Terraria</b></a>
 </p>
