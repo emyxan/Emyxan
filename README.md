@@ -1,6 +1,6 @@
 <!-- BANNER PRINCIPAL COM ESTILO CYBERPUNK / IA -->
 <p align="center">
-  <img src="https://unsplash.com" alt="J.A.R.V.I.S. Banner" width="100%" style="border-radius: 8px; max-height: 220px; object-fit: cover;">
+  <img src="https://demolab.com" alt="Banner JARVIS" />
 </p>
 
 <!-- TYPING ANIMATION (APRESENTAÇÃO) -->
@@ -39,7 +39,7 @@
 ---
 
 <!-- SEÇÃO TECH STACK & FERRAMENTAS -->
-<h3>💻 Tech Stack & Core Systems</h3>
+<h3>💻 Conjunto de tecnologias e sistemas principais</h3>
 
 <p align="left">
   <!-- Core -->
@@ -73,5 +73,3 @@
   <sub>SISTEMA ATIVO • DESENVOLVIDO COM MARKDOWN POR EMILLY • CONEXÃO SEGURA REQUISITADA</sub><br>
   🔒 <code>JARVIS.OS v2.6.0</code>
 </p>
-
-
