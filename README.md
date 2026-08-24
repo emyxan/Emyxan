@@ -1,10 +1,10 @@
 <!-- BANNER PRINCIPAL COM ESTILO CYBERPUNK / IA -->
 <p align="center">
-  <h1><code> ⚡ J.A.R.V.I.S. :: OS ⚡ </code></h1>
+  <h1><code> ℰ𝓂𝓎𝓍𝒶𝓃✩°｡🧸𓏲⋆.🧺𖦹 ₊˚:: OS ⚡ </code></h1>
 </p>
 
 <p align="center">
-  <strong>🚀 Inicializando JARVIS.OS... Bem-vinda ao meu terminal!</strong><br>
+  <strong>🚀 Inicializando na progamação... Bem-vinda ao meu terminal!</strong><br>
   <sub>Estudante de Software & Open Source</sub>
 </p>
 
@@ -14,12 +14,12 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>📁 [DIRETÓRIO]: /user/emyxan</h3>
+      <h3>📁 ⋆. 𐙚 ˚ִ ࣪ ˖ ࣪ ᨰꫀᥣᥴ᥆ꩇꫀ ! ᰔ ִ ׄ>
       <p>Olá! Meu nome é <strong>Emilly</strong>. Sou apaixonada por tecnologia, jogos e documentação de ecossistemas abertos.</p>
       <ul>
         <li>🌐 <b>Atuação:</b> Contribuinte oficial da Wiki do Terraria.</li>
         <li>📚 <b>Evolução:</b> Estudando Algoritmos e Lógica de Programação (IFRS).</li>
-        <li>⚡ <b>Foco:</b> Organização de comunidades e automação de repositórios.</li>
+        <li>⚡ <b>Foco:</b> Organização de comunidades e desenvolver projetos.</li>
       </ul>
     </td>
     <td width="45%" valign="top">
@@ -45,7 +45,7 @@ emyxan@jarvis:~$ run objectives.sh
   <code><b>GitHub</b></code> &nbsp;▪&nbsp;
   <code><b>Terraria Wiki</b></code> &nbsp;▪&nbsp;
   <code><b>Markdown</b></code> &nbsp;▪&nbsp;
-  <code><b>HTML5</b></code>
+  
 </p>
 
 ---
@@ -53,7 +53,7 @@ emyxan@jarvis:~$ run objectives.sh
 <!-- REDES SOCIAIS E CONTATO -->
 <h3 align="center">Conectar ao Terminal</h3>
 <p align="center">
-  📧 <a href="mailto:emillyn105@gmail.com" target="_blank"><b>Gmail</b></a> &nbsp;|&nbsp;
+  📧 <a href="mailto:emillyn105@://gmail.com!"><b>Gmail</b></a> &nbsp;|&nbsp;
   📸 <a href="https://instagram.com" target="_blank"><b>Instagram</b></a> &nbsp;|&nbsp;
   🌳 <a href="https://wiki.gg" target="_blank"><b>Perfil de Terraria</b></a>
 </p>
