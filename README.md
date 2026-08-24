@@ -1,6 +1,6 @@
- <!-- BANNER PRINCIPAL COM ESTILO CYBERPUNK / IA -->
+<!-- BANNER PRINCIPAL COM ESTILO CYBERPUNK / IA -->
 <p align="center">
-  <img src="https://vercel.app" alt="J.A.R.V.I.S. Banner" width="100%">
+  <img src="https://unsplash.com" alt="J.A.R.V.I.S. Banner" width="100%" style="border-radius: 8px; max-height: 220px; object-fit: cover;">
 </p>
 
 <!-- TYPING ANIMATION (APRESENTAÇÃO) -->
@@ -54,40 +54,6 @@
 
 ---
 
-<!-- REPOSITÓRIOS EM DESTAQUE -->
-<h3>🗂️ Repositórios de Destaque</h3>
-
-<p align="center">
-  <a href="https://github.com?tab=repositories">
-    <img src="https://vercel.app" alt="Repo 1" width="49%">
-  </a>
-  <a href="https://github.com?tab=repositories">
-    <img src="https://vercel.app" alt="Repo 2" width="49%">
-  </a>
-</p>
-
----
-
-<!-- GITHUB STATS & METRICS -->
-<h3>📊 Métricas de Desempenho (Módulos JARVIS)</h3>
-
-<!-- TROFÉUS DO GITHUB -->
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Trophies" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Emyxan Stats" width="49%" />
-  <img src="https://vercel.app" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="49%" />
-  <img src="https://vercel.app" alt="Activity Graph" width="49%" />
-</p>
-
----
-
 <!-- REDES SOCIAIS E CONTATO -->
 <h3 align="center">Conectar ao Terminal</h3>
 <p align="center">
@@ -104,6 +70,8 @@
 
 <!-- RODAPÉ -->
 <p align="center">
-  <sub>SISTEMA ATIVO • DESENVOLVIDO COM MARKDOWN / HTML POR EMILLY • CONEXÃO SEGURA REQUISITADA</sub><br>
+  <sub>SISTEMA ATIVO • DESENVOLVIDO COM MARKDOWN POR EMILLY • CONEXÃO SEGURA REQUISITADA</sub><br>
   🔒 <code>JARVIS.OS v2.6.0</code>
 </p>
+
+
