@@ -1,13 +1,11 @@
 <!-- BANNER PRINCIPAL COM ESTILO CYBERPUNK / IA -->
 <p align="center">
-  <img src="https://demolab.com" alt="Banner JARVIS" />
+  <h1><code> ⚡ J.A.R.V.I.S. :: OS ⚡ </code></h1>
 </p>
 
-<!-- TYPING ANIMATION (APRESENTAÇÃO) -->
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
+  <strong>🚀 Inicializando JARVIS.OS... Bem-vinda ao meu terminal!</strong><br>
+  <sub>Estudante de Software & Open Source</sub>
 </p>
 
 ---
@@ -27,29 +25,27 @@
     <td width="45%" valign="top">
       <!-- TERMINAL DE OBJETIVOS -->
       <pre align="left" style="background-color:#0d1117; border: 1px solid #00ff66; padding: 15px; border-radius: 8px; color: #00ffaa; font-family: 'Fira Code', monospace; box-shadow: 0 4px 10px rgba(0,255,102,0.1);">
-<span style="color:#ff0055;">emyxan@jarvis:~$</span> run objectives.sh
-<span style="color:#00ff66;">[✓]</span> Expandir projetos Open Source
-<span style="color:#00ff66;">[✓]</span> Concluir certificações IFRS
-<span style="color:#00ffaa;">[>] Dominar desenvolvimento de software...</span>
-<span style="color:#ffcc00;">[STATUS]: SISTEMA INOVANDO</span></pre>
+emyxan@jarvis:~$ run objectives.sh
+[✓] Expandir projetos Open Source
+[✓] Concluir certificações IFRS
+[>] Dominar desenvolvimento de software...
+[STATUS]: SISTEMA INOVANDO</pre>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- SEÇÃO TECH STACK & FERRAMENTAS -->
+<!-- SEÇÃO TECH STACK & FERRAMENTAS NATIVAS -->
 <h3>💻 Conjunto de tecnologias e sistemas principais</h3>
 
 <p align="left">
-  <!-- Core -->
-  <img src="https://shields.io" alt="Lógica">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="GitHub">
-  <!-- Comunidade e Wiki -->
-  <img src="https://shields.io" alt="Terraria Wiki">
-  <img src="https://shields.io" alt="Markdown">
-  <img src="https://shields.io" alt="HTML5">
+  <code><b>Lógica de Programação</b></code> &nbsp;▪&nbsp;
+  <code><b>Git</b></code> &nbsp;▪&nbsp;
+  <code><b>GitHub</b></code> &nbsp;▪&nbsp;
+  <code><b>Terraria Wiki</b></code> &nbsp;▪&nbsp;
+  <code><b>Markdown</b></code> &nbsp;▪&nbsp;
+  <code><b>HTML5</b></code>
 </p>
 
 ---
@@ -57,16 +53,12 @@
 <!-- REDES SOCIAIS E CONTATO -->
 <h3 align="center">Conectar ao Terminal</h3>
 <p align="center">
-  <a href="mailto:emillyn105@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-  <a href="https://wiki.gg" target="_blank">
-    <img src="https://shields.io" alt="Terraria Profile" />
-  </a>
+  📧 <a href="mailto:emillyn105@gmail.com" target="_blank"><b>Gmail</b></a> &nbsp;|&nbsp;
+  📸 <a href="https://instagram.com" target="_blank"><b>Instagram</b></a> &nbsp;|&nbsp;
+  🌳 <a href="https://wiki.gg" target="_blank"><b>Perfil de Terraria</b></a>
 </p>
+
+<br>
 
 <!-- RODAPÉ -->
 <p align="center">
