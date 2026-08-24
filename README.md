@@ -25,7 +25,7 @@
     <td width="45%" valign="top">
       <!-- TERMINAL DE OBJETIVOS -->
       <pre align="left" style="background-color:#0d1117; border: 1px solid #00ff66; padding: 15px; border-radius: 8px; color: #00ffaa; font-family: 'Fira Code', monospace; box-shadow: 0 4px 10px rgba(0,255,102,0.1);">
-emyxan@jarvis:~$ run objectives.sh
+𝓞𝓫𝓳𝓮𝓽𝓲𝓿𝓸𝓼ⓘ
 [✓] Expandir projetos Open Source
 [✓] Concluir certificações IFRS
 [>] Dominar desenvolvimento de software...
