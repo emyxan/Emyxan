@@ -1,4 +1,4 @@
-<!-- BANNER PRINCIPAL COM ESTILO CYBERPUNK / IA -->
+ <!-- BANNER PRINCIPAL COM ESTILO CYBERPUNK / IA -->
 <p align="center">
   <img src="https://vercel.app" alt="J.A.R.V.I.S. Banner" width="100%">
 </p>
@@ -16,7 +16,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3><img src="https://githubusercontent.com" width="25" /> [DIRETÓRIO]: /user/emyxan</h3>
+      <h3>📁 [DIRETÓRIO]: /user/emyxan</h3>
       <p>Olá! Meu nome é <strong>Emilly</strong>. Sou apaixonada por tecnologia, jogos e documentação de ecossistemas abertos.</p>
       <ul>
         <li>🌐 <b>Atuação:</b> Contribuinte oficial da Wiki do Terraria.</li>
@@ -39,7 +39,7 @@
 ---
 
 <!-- SEÇÃO TECH STACK & FERRAMENTAS -->
-<h3><img src="https://githubusercontent.com" width="25" /> Tech Stack & Core Systems</h3>
+<h3>💻 Tech Stack & Core Systems</h3>
 
 <p align="left">
   <!-- Core -->
@@ -54,23 +54,22 @@
 
 ---
 
-<!-- REPOSITÓRIOS EM DESTAQUE (CARDS REAIS) -->
-<h3><img src="https://githubusercontent.com" width="25" /> Repositórios de Destaque</h3>
+<!-- REPOSITÓRIOS EM DESTAQUE -->
+<h3>🗂️ Repositórios de Destaque</h3>
 
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.co" alt="Repo 1" width="49%">
+  <a href="https://github.com?tab=repositories">
+    <img src="https://vercel.app" alt="Repo 1" width="49%">
   </a>
-  <!-- Caso queira adicionar outro repositório específico no futuro, troque o valor de "repo=" abaixo -->
-  <a href="https://github.com">
-    <img src="https://vercel.co" alt="Repo 2" width="49%">
+  <a href="https://github.com?tab=repositories">
+    <img src="https://vercel.app" alt="Repo 2" width="49%">
   </a>
 </p>
 
 ---
 
 <!-- GITHUB STATS & METRICS -->
-<h3><img src="https://githubusercontent.com" width="25" /> Métricas de Desempenho (Módulos JARVIS)</h3>
+<h3>📊 Métricas de Desempenho (Módulos JARVIS)</h3>
 
 <!-- TROFÉUS DO GITHUB -->
 <p align="center">
@@ -78,22 +77,13 @@
 </p>
 
 <p align="center">
-  <img src="https://vercel.co" alt="Emyxan Stats" width="49%" />
-  <img src="https://vercel.co" alt="Top Languages" width="49%" />
+  <img src="https://vercel.app" alt="Emyxan Stats" width="49%" />
+  <img src="https://vercel.app" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://herokuapp.com" alt="GitHub Streak" width="49%" />
   <img src="https://vercel.app" alt="Activity Graph" width="49%" />
-</p>
-
----
-
-<!-- SNAKE ANIMATION (COMPATÍVEL COM GITHUB ACTIONS) -->
-<h3><img src="https://githubusercontent.com" width="25" /> Redes de Contribuição</h3>
-<p align="center">
-  <!-- Esse arquivo é gerado automaticamente se você configurar o GitHub Actions do "Snake Game" em seu repositório -->
-  <img src="https://githubusercontent.com" alt="Snake Animation" width="100%" onerror="this.src='https://vercel.app'; this.style.height='150px';" />
 </p>
 
 ---
@@ -104,10 +94,10 @@
   <a href="mailto:emillyn105@gmail.com" target="_blank">
     <img src="https://shields.io" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/iamemyyyyyy/" target="_blank">
+  <a href="https://instagram.com" target="_blank">
     <img src="https://shields.io" alt="Instagram" />
   </a>
-  <a href="https://terraria.wiki.gg/wiki/Usu%C3%A1rio:Emyxan" target="_blank">
+  <a href="https://wiki.gg" target="_blank">
     <img src="https://shields.io" alt="Terraria Profile" />
   </a>
 </p>
@@ -115,5 +105,5 @@
 <!-- RODAPÉ -->
 <p align="center">
   <sub>SISTEMA ATIVO • DESENVOLVIDO COM MARKDOWN / HTML POR EMILLY • CONEXÃO SEGURA REQUISITADA</sub><br>
-  <img src="https://githubusercontent.com with Key.png" width="15" /> <code>JARVIS.OS v2.6.0</code>
+  🔒 <code>JARVIS.OS v2.6.0</code>
 </p>
