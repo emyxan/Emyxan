@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>🚀 Inicializando na progamação... Bem-vinda ao meu terminal!</strong><br>
+  <strong>🚀 Inicializando na progamação... Bem-vindos ao meu terminal!</strong><br>
   <sub>Estudante de Software & Open Source</sub>
 </p>
 
