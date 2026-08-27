@@ -56,7 +56,7 @@
 <p align="center">
   📧 <a href="mailto:emillyn105@://gmail.com"><b>Enviar E-mail</b></a> &nbsp;|&nbsp;
   📸 <a href="https://instagram.com" target="_blank"><b>Instagram</b></a> &nbsp;|&nbsp;
-  🌳 <a href="https://terraria.wiki.gg/wiki/Usu%C3%A1rio:Emyxan](https://terraria.wiki.gg/wiki/Usu%C3%A1rio:Emyxan)" target="_blank"><b>Perfil de Terraria</b></a>
+  🌳 <a href="https://terraria.wiki.gg/pt/wiki/Utilizador:Emyxan" target="_blank"><b>Perfil de Terraria</b></a>
 </p>
 
 <br>
