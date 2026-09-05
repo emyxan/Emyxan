@@ -1,68 +1,25 @@
 <!-- BANNER PRINCIPAL COM ESTILO CYBERPUNK / IA -->
-<p align="center">
-  <h1><code> ℰ𝓂𝓎𝓍𝒶𝓃✩°｡🧸𓏲⋆.🧺𖦹 ₊˚:: OS ⚡ </code></h1>
-</p>
+# 💫 About Me:
+**`Desenvolvedora em progresso`**
+Olá me chamo Emily tenho 22 anos,   💻✨<br><br> Sempre fui completamente apaixonada por tecnologia e decidi transformar esse amor em prática. Atualmente, estou na faculdade de Fisioterapia, mas meu coração bate forte pelas linhas de código. Por isso, estou dedicando meu tempo livre para migrar de área.<br><br>No momento, estou focada em aprender **Lógica de Programação** e **HTML5**, que são os meus primeiros passos nesse universo. Meu plano de carreira inclui estudar diversas outras linguagens e ingressar na faculdade de **Análise e Desenvolvimento de Sistemas (ADS)** futuramente.<br><br>Este espaço no GitHub será o diário da minha evolução. Fique à vontade para acompanhar meus projetos e minha jornada de aprendizado!<br>
 
-<p align="center">
-  <strong>🚀 Inicializando na progamação... Bem-vindos ao meu terminal!</strong><br>
-  <sub>Estudante de Software & Open Source</sub>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamemyyyyyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emillyn105@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=emyxan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=emyxan&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=emyxan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- LAYOUT PRINCIPAL: SOBRE MIM & TERMINAL -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>📁 ⋆. 𐙚 ˚ִ ࣪ ˖ ࣪ ᨰꫀᥣᥴ᥆ꩇꫀ ! ᰔ ִ ׄ>
-      <p>Olá! Meu nome é <strong>Emilly</strong>. Sou apaixonada por tecnologia, jogos e documentação de ecossistemas abertos.</p>
-      <ul>
-        <li>🌐 <b>Atuação:</b> Contribuinte oficial da Wiki do Terraria.</li>
-        <li>📚 <b>Evolução:</b> Estudando Algoritmos e Lógica de Programação (IFRS).</li>
-        <li>⚡ <b>Foco:</b> Organização de comunidades e desenvolver projetos.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <!-- TERMINAL DE OBJETIVOS -->
-      <pre align="left" style="background-color:#0d1117; border: 1px solid #00ff66; padding: 15px; border-radius: 8px; color: #00ffaa; font-family: 'Fira Code', monospace; box-shadow: 0 4px 10px rgba(0,255,102,0.1);">
-𝓞𝓫𝓳𝓮𝓽𝓲𝓿𝓸𝓼ⓘ
-[✓] Expandir projetos Open Source
-[✓] Concluir certificações IFRS
-[>] Dominar desenvolvimento de software...
-[STATUS]: SISTEMA INOVANDO</pre>
-    </td>
-  </tr>
-</table>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=emyxan&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!-- SEÇÃO TECH STACK & FERRAMENTAS NATIVAS -->
-<h3>💻 Conjunto de tecnologias e sistemas principais</h3>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=emyxan&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
-<p align="left">
-  <code><b>Lógica de Programação</b></code> &nbsp;▪&nbsp;
-  <code><b>Git</b></code> &nbsp;▪&nbsp;
-  <code><b>GitHub</b></code> &nbsp;▪&nbsp;
-  <code><b>Terraria Wiki</b></code> &nbsp;▪&nbsp;
-  <code><b>Markdown</b></code> &nbsp;▪&nbsp;
-  
-</p>
-
----
-
-<!-- REDES SOCIAIS E CONTATO -->
-<h3 align="center">Conectar ao Terminal</h3>
-
-<p align="center">
-  📧 <a href="mailto:emillyn105@://gmail.com"><b>Enviar E-mail</b></a> &nbsp;|&nbsp;
-  📸 <a href="https://instagram.com" target="_blank"><b>Instagram</b></a> &nbsp;|&nbsp;
-  🌳 <a href="https://terraria.wiki.gg/pt/wiki/Utilizador:Emyxan" target="_blank"><b>Perfil de Terraria</b></a>
-</p>
-
-<br>
-
-<!-- RODAPÉ -->
-<p align="center">
-  <sub>SISTEMA ATIVO • DESENVOLVIDO COM MARKDOWN POR EMILLY • CONEXÃO SEGURA REQUISITADA</sub><br>
-  🔒 <code>JARVIS.OS v2.6.0</code>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
